@@ -5,3 +5,4 @@ venv/
 .streamlit/secrets.toml
 .env
 STREAMLIT_DASHBOARD_GUIDE.md
+notebook food-delivery-analytics-challenge-.ipynb
